@@ -1,0 +1,7 @@
+@media (max-width:720px){
+.a{background-color:black;}
+.a1{position:absolute;color:blue;top:0px;left:50px;font-size:30px;}
+.a2{position:absolute;color:green;top:50px;
+left:0px;}
+.a3{position:absolute;top:1850px;left:50px;background-color:yellow;height:50px;width:200px;border-radius:30px;font-size:30px;}
+}
