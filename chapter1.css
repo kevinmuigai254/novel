@@ -1,0 +1,21 @@
+@media (max-width:720px){
+.a{background-color:black;}
+.a1{position:absolute;top:0px;left:30px;color:blue;font-size:30px;}
+.a2{position:absolute;color:green;left:0px;top:50px;}
+.a3{position:absolute;color:brown;left:0px;top:200px;}
+.a4{position:absolute;color:green;left:0px;top:270px;}
+.a5{position:absolute;color:green;left:0px;top:290px;}
+.a6{position:absolute;color:green;left:0px;top:310px;}
+.a7{position:absolute;color:green;left:0px;top:330px;}
+.a8{position:absolute;color:green;left:0px;top:350px;}
+.a9{position:absolute;color:brown;left:0px;top:600px;}
+.a10{position:absolute;color:brown;left:0px;top:700px;}
+.a11{position:absolute;color:brown;left:0px;top:750px;}
+.a12{position:absolute;color:green;left:0px;top:900px;}
+.a13{position:absolute;color:brown;left:0px;top:1450px;}
+.a14{position:absolute;color:green;left:0px;top:1500px;}
+.a15{position:absolute;color:brown;left:0px;top:1760px;}
+.a16{position:absolute;color:brown;left:0px;top:1900px;}
+.a17{position:absolute;color:green;left:0px;top:2000px;}
+.a18{position:absolute;background-color:yellow;top:3350px;width:200px;height:50px;left:40px;font-size:30px;border-radius:30px;}
+}
