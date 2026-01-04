@@ -1,0 +1,16 @@
+@media (max-width:720px){
+.a{background-color:black;}
+.a1{position:absolute;top:0px;left:30px;color:blue;font-size:30px;}
+.a2{position:absolute;top:40px;left:0px;color:green;}
+.a3{position:absolute;left:0px;color:brown;top:500px;}
+.a4{position:absolute;left:0px;color:brown;top:600px;}
+.a5{position:absolute;left:0px;color:green;top:780px;}
+.a6{position:absolute;left:0px;color:brown;top:1050px;}
+.a7{position:absolute;left:0px;color:brown;top:1160px;}
+.a8{position:absolute;left:0px;color:brown;top:1250px;}
+.a9{position:absolute;left:0px;color:green;top:1400px;}
+.a10{position:absolute;left:0px;color:brown;top:1880px;}
+.a11{position:absolute;left:0px;color:brown;top:2050px;}
+.a12{position:absolute;left:0px;color:green;top:2250px;}
+.a13{position:absolute;left:30px;background-color:yellow;border-radius:30px;width:200px;height:50px;top:3300px;font-size:30px;}
+}
