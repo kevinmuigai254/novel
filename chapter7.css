@@ -1,0 +1,8 @@
+@media (max-width:720px){
+.a{background-color:black;}
+.a1{position:absolute;top:0px;left:30px;color:blue;Font-size:30px;}
+.a2{position:absolute;top:40px;left:0px;color:green;}
+.a3{position:absolute;left:0px;color:brown;top:2200px;}
+.a4{position:absolute;left:0px;color:green;top:2300px;}
+.a5{position:absolute;top:2700px;left:40px;font-size:30px;background-color:yellow;border-radius:30px;width:200px;height:50px;}
+}
